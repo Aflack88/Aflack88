@@ -1,9 +1,8 @@
 👋 Hi, I’m Aidan Marshall
-- 👀 I’m interested in aerospace technologies and the progression of humans to become an interplanetary species
-- 🌱 I’m currently studying Mechanical Engineering at Northern Illinois University
-- 💞️ I’m looking to collaborate on rocket and propulsion projects
+- ⚡I’m interested in all sorts of technologies and love the business world
+- 🌱 I’m a Mechanical Engineer passionate about the future of Ai
+- ✨ I’m looking to join or create a startup
 - 📫 How to reach me email: aidanmarshall12@gmail.com
-- ⚡ Fun fact: I love hot wings
 
 <!---
 Aflack88/Aflack88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
